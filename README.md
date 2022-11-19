@@ -1,4 +1,5 @@
-## •	 🌱 I’m currently learning Front-End (Javascript, Angular, ReactJS)
+### Um pouco sobre mim
+- 🌱 I’m currently learning Front-End - HTML, CSS, Javascript
 
 <!--
 **vini-sousa/vini-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
