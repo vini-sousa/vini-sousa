@@ -1,4 +1,4 @@
-### Um pouco sobre mim
+### ABOUT
 - 🌱 I’m currently learning HTML, CSS, Javascript, Typescript and C#
 
 <div>
