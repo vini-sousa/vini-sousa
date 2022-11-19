@@ -1,4 +1,4 @@
-### •	 🌱 I’m currently learning Front-End (Javascript, Angular, ReactJS)
+## •	 🌱 I’m currently learning Front-End (Javascript, Angular, ReactJS)
 
 <!--
 **vini-sousa/vini-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
