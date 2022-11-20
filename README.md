@@ -36,7 +36,7 @@
 ![Snake animation](https://github.com/vini-sousa/vini-sousa/blob/output/github-contribution-grid-snake.svg) 
   
 <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{vini-sousa}/count.svg" /></p> 
-<br>
+  <a href="" target="_blank"></a>
+  
+  ![](https://visitor-badge.glitch.me/badge?page_id=vini-sousa)
 </div>
