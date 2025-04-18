@@ -1,5 +1,6 @@
 ### ABOUT
-- 🌱 I’m currently learning HTML, CSS, Javascript, Typescript and C#
+- Full Stack Developer C# | .NET | HTML | CSS | Javascript | SQL | MongoDB
+- 🌱 I’m currently Angular
 
 <div>
   <a href="https://github.com/vini-sousa">
