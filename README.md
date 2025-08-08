@@ -1,8 +1,8 @@
 ### ABOUT
 - 🌱Experience: Full Stack Developer C# (.NET), MVC Models, HTML/CSS, Javascript, SQL, MongoDB
 - 📝 I'm graduated in Systems Analyst and Developer
-- 🌱 I’m currently learning Angular
-- 📕 Lerning : Angular and EF Core
+- 🌱 I’m currently React
+- 📕 Learning : React, NextJS
 
 <div>
   <a href="https://github.com/vini-sousa">
